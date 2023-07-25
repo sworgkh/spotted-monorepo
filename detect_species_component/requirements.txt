@@ -1,7 +1,7 @@
 attrs==21.2.0
 azure-core==1.14.0
 azure-storage-blob==12.8.1
-certifi==2020.12.5
+certifi==2023.7.22
 cffi==1.14.0
 chardet==4.0.0
 click==7.1.2
